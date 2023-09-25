@@ -1,2 +1,2 @@
 # dio-java-basic
-Repositório para armazenar todo o conteúdo do curso de Java básico
+Repositório para armazenar testes do conteúdo de Java
