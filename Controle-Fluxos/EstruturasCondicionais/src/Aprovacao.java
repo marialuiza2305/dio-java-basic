@@ -7,6 +7,7 @@ public class Aprovacao {
 
         double media = (ap1 + ap2 + ap3)/3;
 
+        //Condição encadeada
         if(media >= 7) {
             System.out.println("Aprovado");
         } else if(5 < media && 7 > media) {
@@ -14,5 +15,9 @@ public class Aprovacao {
         } else {
             System.out.println("Reprovado");
         }
+
+        //Condição ternária
+        String resultado = media >= 7 ? "Aprovado" : media > 5 && media < 7 ? "Recuperação" : "Reprovado";
+        System.out.println(resultado);
     }
 }
