@@ -1,3 +1,2 @@
 # dio-java-basic
-Repositório para armazenar testes do conteúdo de Java
-dio
+Repository to store my study of Digital Innovation One's (DIO) basic Java course
